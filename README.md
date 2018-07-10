@@ -1,0 +1,2 @@
+# gsclocalguide
+ローカルガイド
